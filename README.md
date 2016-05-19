@@ -3,7 +3,7 @@
 Hardware:
 * [LinkIt Smart 7688](http://www.seeedstudio.com/wiki/LinkIt_Smart_7688) board,
 * [LED cube 8x8x8](http://8x8x8ledcube.blogspot.com/), and
-* simple [vibration sensor module]().
+* simple [vibration sensor module](http://henrysbench.capnfatz.com/henrys-bench/arduino-sensors-and-input/ky-002-arduino-vibration-shake-sensor-manual-and-tutorial/).
 
 Software:
 * [MRAA library](https://github.com/sergev/mraa) adapted for Linkit Smart 7688 platform,
@@ -75,6 +75,6 @@ Connection to the Cube board:
 ```
 
 Schematics:
-* [Linkit Smart 7688 board (PDF)](https://raw.githubusercontent.com/wiki/sergev/linkit-cube-demo/linkit-pinout.pdf)
-* [Schematic of the Cube board](https://raw.githubusercontent.com/wiki/sergev/linkit-cube-demo/)
-* [Picture of the Cube board](https://raw.githubusercontent.com/wiki/sergev/linkit-cube-demo/)
+* [Linkit Smart 7688 board (PDF)](https://github.com/sergev/linkit-cube-demo/raw/master/linkit-pinout.pdf)
+* [Schematic of the Cube board](https://github.com/sergev/linkit-cube-demo/raw/master/cube-schematic.jpg)
+* [Picture of the Cube board](https://github.com/sergev/linkit-cube-demo/raw/master/cube-board.jpg)
