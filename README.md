@@ -74,7 +74,8 @@ Connection to the Cube board:
          -------
 ```
 
-Schematics:
-* [Linkit Smart 7688 board](https://github.com/sergev/linkit-cube-demo/raw/master/linkit-pinout.png)
+Schematics and docs:
+* [Pinout of the Linkit Smart 7688 board](https://github.com/sergev/linkit-cube-demo/raw/master/linkit-pinout.png)
 * [Schematic of the Cube board](https://github.com/sergev/linkit-cube-demo/raw/master/cube-schematic.jpg)
 * [Picture of the Cube board](https://github.com/sergev/linkit-cube-demo/raw/master/cube-board.jpg)
+* [MRAA pin mappings](https://github.com/sergev/mraa/blob/master/docs/linkit_7688.md) for the Linkit Smart 7688 board
