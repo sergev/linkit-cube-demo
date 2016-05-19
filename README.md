@@ -75,6 +75,6 @@ Connection to the Cube board:
 ```
 
 Schematics:
-* [Linkit Smart 7688 board (PDF)](https://github.com/sergev/linkit-cube-demo/raw/master/linkit-pinout.pdf)
+* [Linkit Smart 7688 board (PDF)](https://raw.githubusercontent.com/sergev/linkit-cube-demo/master/linkit-pinout.pdf)
 * [Schematic of the Cube board](https://github.com/sergev/linkit-cube-demo/raw/master/cube-schematic.jpg)
 * [Picture of the Cube board](https://github.com/sergev/linkit-cube-demo/raw/master/cube-board.jpg)
